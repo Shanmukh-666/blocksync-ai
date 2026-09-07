@@ -108,7 +108,7 @@ for section in SECTIONS:
         avail_date = today + timedelta(days=day_offset)
         start_hour = random.choice([0, 1, 22, 23])
         start_t = time(hour=start_hour % 24, minute=0)
-        end_hour = (start_hour + random.choice([3, 4, 5])) % 24
+        end_hour = (start_hour + random.choice([6, 7, 8])) % 24
         end_t = time(hour=end_hour, minute=0)
 
         availability.append({

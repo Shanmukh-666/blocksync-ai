@@ -1,55 +1,55 @@
 task_id,department,corridor_section,defect_type,severity,reported_date,est_duration_hrs,status,reported_by,rolled_over
-TMS-0001,Engineering,SEC-16,Rail crack,5,2026-09-07,5.6,Pending,,False
-TMS-0002,Engineering,SEC-07,Ballast deficiency,5,2026-09-03,5.6,Pending,,False
-TMS-0003,Engineering,SEC-16,Joint gap defect,1,2026-08-25,2.1,Pending,,False
-TMS-0004,Engineering,SEC-03,Ballast deficiency,2,2026-08-19,2.7,Pending,,False
-TMS-0005,Engineering,SEC-07,Joint gap defect,2,2026-08-24,3.6,Pending,,False
-TMS-0006,Engineering,SEC-01,Ballast deficiency,3,2026-08-28,3.7,Pending,,False
-TMS-0007,Engineering,SEC-07,Rail wear,2,2026-08-26,2.8,Pending,,False
-TMS-0008,Engineering,SEC-12,Joint gap defect,2,2026-09-06,3.8,Pending,,False
-TMS-0009,Engineering,SEC-18,Rail crack,4,2026-08-26,4.0,Pending,,False
-TMS-0010,Engineering,SEC-10,Joint gap defect,4,2026-08-27,4.8,Pending,,False
-TMS-0011,Engineering,SEC-03,Rail crack,3,2026-08-14,3.7,Pending,,False
-TMS-0012,Engineering,SEC-03,Ballast deficiency,4,2026-08-26,4.3,Pending,,False
-TMS-0013,Engineering,SEC-12,Ballast deficiency,2,2026-09-01,3.7,Pending,,False
-TMS-0014,Engineering,SEC-03,Joint gap defect,3,2026-08-21,4.4,Pending,,False
-TMS-0015,Engineering,SEC-06,Track misalignment,2,2026-08-09,3.7,Pending,,False
-TMS-0016,Engineering,SEC-18,Ballast deficiency,3,2026-08-12,4.5,Pending,,False
-TMS-0017,Engineering,SEC-02,Ballast deficiency,4,2026-08-13,4.4,Pending,,False
-TMS-0018,Engineering,SEC-09,Rail crack,2,2026-08-08,3.6,Pending,,False
-SMMS-0019,Signal,SEC-16,Cable insulation fault,5,2026-09-01,5.5,Pending,,False
-SMMS-0020,Signal,SEC-12,Signal lamp failure,5,2026-09-03,4.9,Pending,,False
-SMMS-0021,Signal,SEC-07,Interlocking fault,3,2026-08-15,4.2,Pending,,False
-SMMS-0022,Signal,SEC-13,Cable insulation fault,2,2026-09-03,3.5,Pending,,False
-SMMS-0023,Signal,SEC-03,Signal relay fault,4,2026-09-03,4.8,Pending,,False
-SMMS-0024,Signal,SEC-14,Interlocking fault,1,2026-08-26,3.0,Pending,,False
-SMMS-0025,Signal,SEC-15,Interlocking fault,2,2026-08-21,4.0,Pending,,False
-SMMS-0026,Signal,SEC-01,Signal relay fault,3,2026-08-21,4.4,Pending,,False
-SMMS-0027,Signal,SEC-11,Signal relay fault,2,2026-09-02,3.4,Pending,,False
-SMMS-0028,Signal,SEC-09,Interlocking fault,3,2026-08-22,4.7,Pending,,False
-SMMS-0029,Signal,SEC-10,Interlocking fault,3,2026-09-03,3.9,Pending,,False
-SMMS-0030,Signal,SEC-06,Interlocking fault,4,2026-08-09,4.7,Pending,,False
-SMMS-0031,Signal,SEC-01,Interlocking fault,2,2026-09-07,2.9,Pending,,False
-SMMS-0032,Signal,SEC-12,Cable insulation fault,2,2026-08-31,4.0,Pending,,False
-SMMS-0033,Signal,SEC-03,Signal relay fault,3,2026-08-12,3.4,Pending,,False
-SMMS-0034,Signal,SEC-18,Point machine malfunction,2,2026-08-23,4.1,Pending,,False
-SMMS-0035,Signal,SEC-06,Cable insulation fault,3,2026-08-19,3.9,Pending,,False
-SMMS-0036,Signal,SEC-07,Interlocking fault,3,2026-08-16,3.6,Pending,,False
-TDMS-0037,Traction,SEC-09,Traction pole corrosion,5,2026-08-17,5.5,Pending,,False
-TDMS-0038,Traction,SEC-12,Circuit breaker fault,5,2026-08-24,4.7,Pending,,False
-TDMS-0039,Traction,SEC-07,OHE wire wear,2,2026-08-20,3.5,Pending,,False
-TDMS-0040,Traction,SEC-08,OHE wire wear,1,2026-08-18,2.2,Pending,,False
-TDMS-0041,Traction,SEC-03,OHE wire wear,4,2026-09-05,4.7,Pending,,False
-TDMS-0042,Traction,SEC-09,Traction pole corrosion,2,2026-09-03,3.8,Pending,,False
-TDMS-0043,Traction,SEC-16,Insulator damage,3,2026-08-13,3.9,Pending,,False
-TDMS-0044,Traction,SEC-04,OHE wire wear,3,2026-08-27,3.9,Pending,,False
-TDMS-0045,Traction,SEC-15,OHE wire wear,3,2026-08-18,3.4,Pending,,False
-TDMS-0046,Traction,SEC-13,Feeder cable fault,4,2026-09-04,4.3,Pending,,False
-TDMS-0047,Traction,SEC-07,Circuit breaker fault,2,2026-08-25,3.0,Pending,,False
-TDMS-0048,Traction,SEC-15,Insulator damage,4,2026-09-05,4.6,Pending,,False
-TDMS-0049,Traction,SEC-18,OHE wire wear,1,2026-08-21,3.4,Pending,,False
-TDMS-0050,Traction,SEC-03,Insulator damage,2,2026-08-23,3.4,Pending,,False
-TDMS-0051,Traction,SEC-13,OHE wire wear,2,2026-09-07,4.2,Pending,,False
-TDMS-0052,Traction,SEC-09,Traction pole corrosion,2,2026-08-16,4.1,Pending,,False
-TDMS-0053,Traction,SEC-18,Traction pole corrosion,2,2026-08-29,3.0,Pending,,False
-TDMS-0054,Traction,SEC-02,Circuit breaker fault,3,2026-09-06,4.4,Pending,,False
+TMS-0001,Engineering,SEC-16,Rail crack,5,2026-09-08,5.6,Pending,,False
+TMS-0002,Engineering,SEC-07,Ballast deficiency,5,2026-09-04,5.6,Pending,,False
+TMS-0003,Engineering,SEC-16,Joint gap defect,1,2026-08-26,2.1,Pending,,False
+TMS-0004,Engineering,SEC-03,Ballast deficiency,2,2026-08-20,2.7,Pending,,False
+TMS-0005,Engineering,SEC-07,Joint gap defect,2,2026-08-25,3.6,Pending,,False
+TMS-0006,Engineering,SEC-01,Ballast deficiency,3,2026-08-29,3.7,Pending,,False
+TMS-0007,Engineering,SEC-07,Rail wear,2,2026-08-27,2.8,Pending,,False
+TMS-0008,Engineering,SEC-12,Joint gap defect,2,2026-09-07,3.8,Pending,,False
+TMS-0009,Engineering,SEC-18,Rail crack,4,2026-08-27,4.0,Pending,,False
+TMS-0010,Engineering,SEC-10,Joint gap defect,4,2026-08-28,4.8,Pending,,False
+TMS-0011,Engineering,SEC-03,Rail crack,3,2026-08-15,3.7,Pending,,False
+TMS-0012,Engineering,SEC-03,Ballast deficiency,4,2026-08-27,4.3,Pending,,False
+TMS-0013,Engineering,SEC-12,Ballast deficiency,2,2026-09-02,3.7,Pending,,False
+TMS-0014,Engineering,SEC-03,Joint gap defect,3,2026-08-22,4.4,Pending,,False
+TMS-0015,Engineering,SEC-06,Track misalignment,2,2026-08-10,3.7,Pending,,False
+TMS-0016,Engineering,SEC-18,Ballast deficiency,3,2026-08-13,4.5,Pending,,False
+TMS-0017,Engineering,SEC-02,Ballast deficiency,4,2026-08-14,4.4,Pending,,False
+TMS-0018,Engineering,SEC-09,Rail crack,2,2026-08-09,3.6,Pending,,False
+SMMS-0019,Signal,SEC-16,Cable insulation fault,5,2026-09-02,5.5,Pending,,False
+SMMS-0020,Signal,SEC-12,Signal lamp failure,5,2026-09-04,4.9,Pending,,False
+SMMS-0021,Signal,SEC-07,Interlocking fault,3,2026-08-16,4.2,Pending,,False
+SMMS-0022,Signal,SEC-13,Cable insulation fault,2,2026-09-04,3.5,Pending,,False
+SMMS-0023,Signal,SEC-03,Signal relay fault,4,2026-09-04,4.8,Pending,,False
+SMMS-0024,Signal,SEC-14,Interlocking fault,1,2026-08-27,3.0,Pending,,False
+SMMS-0025,Signal,SEC-15,Interlocking fault,2,2026-08-22,4.0,Pending,,False
+SMMS-0026,Signal,SEC-01,Signal relay fault,3,2026-08-22,4.4,Pending,,False
+SMMS-0027,Signal,SEC-11,Signal relay fault,2,2026-09-03,3.4,Pending,,False
+SMMS-0028,Signal,SEC-09,Interlocking fault,3,2026-08-23,4.7,Pending,,False
+SMMS-0029,Signal,SEC-10,Interlocking fault,3,2026-09-04,3.9,Pending,,False
+SMMS-0030,Signal,SEC-06,Interlocking fault,4,2026-08-10,4.7,Pending,,False
+SMMS-0031,Signal,SEC-01,Interlocking fault,2,2026-09-08,2.9,Pending,,False
+SMMS-0032,Signal,SEC-12,Cable insulation fault,2,2026-09-01,4.0,Pending,,False
+SMMS-0033,Signal,SEC-03,Signal relay fault,3,2026-08-13,3.4,Pending,,False
+SMMS-0034,Signal,SEC-18,Point machine malfunction,2,2026-08-24,4.1,Pending,,False
+SMMS-0035,Signal,SEC-06,Cable insulation fault,3,2026-08-20,3.9,Pending,,False
+SMMS-0036,Signal,SEC-07,Interlocking fault,3,2026-08-17,3.6,Pending,,False
+TDMS-0037,Traction,SEC-09,Traction pole corrosion,5,2026-08-18,5.5,Pending,,False
+TDMS-0038,Traction,SEC-12,Circuit breaker fault,5,2026-08-25,4.7,Pending,,False
+TDMS-0039,Traction,SEC-07,OHE wire wear,2,2026-08-21,3.5,Pending,,False
+TDMS-0040,Traction,SEC-08,OHE wire wear,1,2026-08-19,2.2,Pending,,False
+TDMS-0041,Traction,SEC-03,OHE wire wear,4,2026-09-06,4.7,Pending,,False
+TDMS-0042,Traction,SEC-09,Traction pole corrosion,2,2026-09-04,3.8,Pending,,False
+TDMS-0043,Traction,SEC-16,Insulator damage,3,2026-08-14,3.9,Pending,,False
+TDMS-0044,Traction,SEC-04,OHE wire wear,3,2026-08-28,3.9,Pending,,False
+TDMS-0045,Traction,SEC-15,OHE wire wear,3,2026-08-19,3.4,Pending,,False
+TDMS-0046,Traction,SEC-13,Feeder cable fault,4,2026-09-05,4.3,Pending,,False
+TDMS-0047,Traction,SEC-07,Circuit breaker fault,2,2026-08-26,3.0,Pending,,False
+TDMS-0048,Traction,SEC-15,Insulator damage,4,2026-09-06,4.6,Pending,,False
+TDMS-0049,Traction,SEC-18,OHE wire wear,1,2026-08-22,3.4,Pending,,False
+TDMS-0050,Traction,SEC-03,Insulator damage,2,2026-08-24,3.4,Pending,,False
+TDMS-0051,Traction,SEC-13,OHE wire wear,2,2026-09-08,4.2,Pending,,False
+TDMS-0052,Traction,SEC-09,Traction pole corrosion,2,2026-08-17,4.1,Pending,,False
+TDMS-0053,Traction,SEC-18,Traction pole corrosion,2,2026-08-30,3.0,Pending,,False
+TDMS-0054,Traction,SEC-02,Circuit breaker fault,3,2026-09-07,4.4,Pending,,False
